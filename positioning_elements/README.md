@@ -5,10 +5,10 @@
 Собрать из прямоугольных элементов некую узнаваемую фигуру в поле экрана, использовав различные варианты якорной привязки.
 Все элементы определены как компонент. Свойства элементов можно менять через alias
 
-![screenshot_1](https://github.com/EkaterinaKugot/qml/blob/main/1 task/frog.png)
+![screenshot_1](https://github.com/EkaterinaKugot/qml/blob/main/1_task/frog.png)
 
 ## Задание 2
 
 Собрать макет по образцу, используя якорные привязки и механизм связанных свойств. При изменении размеров окна, пропорции макета должны сохраняться.
 
-![screenshot_1](https://github.com/EkaterinaKugot/qml/blob/main/2 task/layout.png)
+![screenshot_1](https://github.com/EkaterinaKugot/qml/blob/main/2_task/layout.png)
